@@ -1,2 +1,2 @@
-# GertWebsite
-My Online Website
+# *GertWebsite
+##### _My Online BIO/CV_
